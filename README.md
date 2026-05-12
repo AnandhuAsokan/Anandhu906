@@ -22,28 +22,54 @@
 
 # 💫 About Me
 
-```yaml
-Name: Anandhu Asokan S
-Role: Software Engineer | MERN Stack Developer
-Experience: Full Stack Development
-Specialization:
-  - ERP Systems
-  - OTT Platforms
-  - REST APIs
-  - Business Applications
-  - CRM & E-Commerce Systems
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Current Focus:
-  - Scalable Backend Architecture
-  - DevOps Learning
-  - Performance Optimization
-  - System Design
+🚀 Passionate **Full Stack MERN Developer** from Kerala, India
+💼 Currently working as a **Software Engineer**
+⚡ Specialized in building **ERP Systems, OTT Platforms & Business Applications**
 
-Open To:
-  - Full-Time Opportunities
-  - Freelance Projects
-  - Remote Work
-```
+---
+
+### 👨‍💻 What I Do
+
+* 🔹 Build scalable REST APIs using Node.js & Express
+* 🔹 Develop modern frontend apps with React.js
+* 🔹 Design multi-tenant enterprise architectures
+* 🔹 Optimize backend performance & database queries
+* 🔹 Implement secure authentication & RBAC systems
+
+---
+
+### 🧠 Currently Exploring
+
+* ☁️ AWS & DevOps
+* 🐳 Docker & Deployment
+* ⚙️ Scalable System Design
+* 📈 Performance Optimization
+
+---
+
+### 🏆 Quick Highlights
+
+✅ ERP & CRM Platform Development
+✅ OTT Streaming Platform Development
+✅ Multi-Tenant Architecture Experience
+✅ API Optimization & Secure Authentication
+✅ Business Management System Development
+
+---
+
+### ⚡ Fun Fact
+
+💡 I enjoy solving real-world business problems through scalable backend architecture and clean system design.
+
+<br>
+
+<div align="center">
+
+### 🚀 “Code. Build. Scale. Repeat.”
+
+</div>
 
 ---
 
@@ -51,13 +77,13 @@ Open To:
 
 <div align="center">
 
-## 👨‍💻 Frontend Technologies
+## 👨‍💻 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,ts,js" />
 
 ---
 
-## ⚙️ Backend Technologies
+## ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
 
@@ -78,10 +104,10 @@ Open To:
 ### Cloudforest Innovations | Kerala, India
 
 * Developed scalable enterprise and business applications
-* Improved API and database performance
-* Designed reusable frontend and backend architecture
+* Improved backend performance and API efficiency
+* Built reusable architecture for frontend & backend systems
+* Worked on reporting and management modules
 * Implemented secure authentication and RBAC systems
-* Worked on reporting and management platforms
 
 ---
 
@@ -89,10 +115,11 @@ Open To:
 
 ### Minute Designs | Kerala, India
 
-* Developed ERP, CRM, and e-commerce applications
-* Built multi-tenant architectures
+* Developed ERP, CRM, and E-commerce systems
+* Built scalable multi-tenant applications
 * Integrated Razorpay, Cloudinary, and Nodemailer
-* Created secure REST APIs and scalable workflows
+* Developed secure REST APIs
+* Optimized operational workflows and backend systems
 
 ---
 
@@ -100,9 +127,10 @@ Open To:
 
 ### MashupStack | Kerala, India
 
-* Developed OTT platforms and management systems
-* Worked on frontend + backend development
-* Participated in API integrations and optimization
+* Worked on OTT platforms and management systems
+* Assisted frontend & backend development
+* Participated in API integrations and testing
+* Supported optimization and reporting workflows
 
 ---
 
@@ -117,22 +145,22 @@ Open To:
 ### Tally Prime Inspired
 
 ✔ Accounting Modules
-✔ Inventory Management
-✔ Payroll System
-✔ Financial Reports
+✔ Payroll Management
+✔ Inventory System
+✔ Voucher & Reports
 ✔ Multi-Tenant Architecture
 
 </td>
 
 <td width="50%">
 
-## 🎬 OTT Platform
+## 🎬 OTT Streaming Platform
 
 ✔ Watch History
 ✔ Movie Search
 ✔ Admin Dashboard
 ✔ Ratings & Analytics
-✔ Scalable REST APIs
+✔ REST API Integration
 
 </td>
 </tr>
@@ -142,10 +170,10 @@ Open To:
 
 ## 🏫 School Management System
 
-✔ Attendance System
+✔ Attendance Tracking
 ✔ Reporting Features
 ✔ Parent Communication
-✔ Role-Based Access
+✔ Student Management
 
 </td>
 
@@ -154,8 +182,8 @@ Open To:
 ## 🚖 Cab Booking Platform
 
 ✔ Live Tracking
-✔ Real-Time Updates
 ✔ Booking Management
+✔ Real-Time Updates
 ✔ Backend Optimization
 
 </td>
@@ -164,7 +192,7 @@ Open To:
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -186,7 +214,7 @@ Open To:
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -211,11 +239,40 @@ Open To:
 <div align="center">
 
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
 ![System Design](https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge)
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
+
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio)
+
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary)
+
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge\&logo=razorpay)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+</div>
+
+---
+
+# 📌 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnandhuAsokan&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![snake gif](https://github.com/AnandhuAsokan/AnandhuAsokan/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -233,7 +290,7 @@ Open To:
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="www.linkedin.com/in/anandhu-asokan-748976291">
+<a href="https://www.linkedin.com/in/anandhu-asokan-748976291">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
@@ -241,11 +298,11 @@ Open To:
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Quote I Follow
 
 <div align="center">
 
-### 💡 “I enjoy building scalable systems and solving real-world business problems through clean architecture and efficient backend development.”
+### 💡 “Build scalable systems. Solve real-world problems. Keep learning.”
 
 </div>
 
@@ -255,6 +312,6 @@ Open To:
 
 # 🚀 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=150&section=footer"/>
 
 </div>
