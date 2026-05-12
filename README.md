@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/github/followers/AnandhuAsokan?label=Followers&style=for-the-badge&color=blue" />
 
-<img src="https://img.shields.io/github/stars/AnanddhuAsokan?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+<img src="https://img.shields.io/github/stars/AnandhuAsokan?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
 
 </div>
 
@@ -77,8 +77,6 @@ Open To:
 
 ### Cloudforest Innovations | Kerala, India
 
-📅 Feb 2025 – Present
-
 * Developed scalable enterprise and business applications
 * Improved API and database performance
 * Designed reusable frontend and backend architecture
@@ -91,8 +89,6 @@ Open To:
 
 ### Minute Designs | Kerala, India
 
-📅 Dec 2024 – Jan 2025
-
 * Developed ERP, CRM, and e-commerce applications
 * Built multi-tenant architectures
 * Integrated Razorpay, Cloudinary, and Nodemailer
@@ -103,8 +99,6 @@ Open To:
 ## 💼 Software Engineer Intern
 
 ### MashupStack | Kerala, India
-
-📅 May 2024 – Nov 2024
 
 * Developed OTT platforms and management systems
 * Worked on frontend + backend development
