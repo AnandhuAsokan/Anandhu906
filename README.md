@@ -202,16 +202,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Anandhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnandhuAsokan\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
