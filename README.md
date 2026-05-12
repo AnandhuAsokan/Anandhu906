@@ -268,16 +268,6 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![snake gif](https://github.com/AnandhuAsokan/AnandhuAsokan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
